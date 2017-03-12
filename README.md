@@ -1,4 +1,4 @@
-[shell](shell/shell.md)
+[zsh](shell/zsh.md)
 
 [nodejs](javascript/nodejs.md)
 
