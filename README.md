@@ -4,4 +4,8 @@
 
 [expressjs](javascript/expressjs.md)
 
-[markdown](markdown/markdown.md)
+[markdown](markdown.md)
+
+[vim](vim.md)
+
+[deploy](deploy.md)
