@@ -1,3 +1,7 @@
+### git config
+git config user.name "Ickhyun Kwon"
+git config user.email "ekcode@icloud.com"
+
 ### git rm 되돌리기
 ```
 git reset -- file
