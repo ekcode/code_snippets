@@ -7,8 +7,10 @@ USER=ekcode; curl -s "https://api.github.com/users/$USER/repos?per_page=1000" | 
 https://help.github.com/articles/changing-author-info/
 
 ### git config
+```
 git config user.name "Ickhyun Kwon"
 git config user.email "ekcode@icloud.com"
+```
 
 ### git rm 되돌리기
 ```
