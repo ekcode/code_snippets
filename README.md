@@ -17,3 +17,5 @@
 [git](git.md)
 
 [ansible](ansible.md)
+
+[clojure](clojure.md)
