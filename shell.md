@@ -1,5 +1,9 @@
 # 각종 명령어
 
+### whence -v 
+
+outputs the file containing the function definition.
+
 ### keytool
 
 JRE에 등록된 CA 리스트 확인
