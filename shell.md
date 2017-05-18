@@ -1,5 +1,19 @@
 # 각종 명령어
 
+### sudo time-out
+
+값은 분단위이다. 0으로 설정하면 항상 패스워드를 물어본다.
+
+sudo visudo
+
+change
+
+`Defaults     env_reset`
+
+to
+
+`Defaults     env_reset,timestamp_timeout=2`
+
 ### whence -v 
 
 outputs the file containing the function definition.
